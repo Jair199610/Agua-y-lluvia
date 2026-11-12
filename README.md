@@ -8,11 +8,11 @@ Plataforma web que junta pronóstico de lluvia, antecedentes y reportes de vecin
 
 | Integrante | Carrera | Parte del proyecto |
 |---|---|---|
-| [Nombre] | Ing. en Sistemas Computacionales | [ ] |
-| [Nombre] | Ing. en Sistemas Computacionales | [ ] |
-| [Nombre] | Ing. en Sistemas Computacionales | [ ] |
-| [Nombre] | Ing. en Sistemas Computacionales | [ ] |
-| [Nombre] | Gestión Empresarial | [ ] |
+| [Annie Lizeth Sanchez Baizabal] | Ing. en Sistemas Computacionales | [ Módulo de Alertas Ciudadanas y Correo: Diseño del sistema de envío de alertas por correo (lib/correo.php), integración de destinatarios mediante INNER JOIN con colonias de usuarios, y notificaciones en pantalla y navegador.] |
+| [DIANA VALLADARES ORTIZ] | Ing. en Sistemas Computacionales | [Backend, Base de Datos y Seguridad: Arquitectura de rutas de la API en PHP, diseño y estructuración del esquema relacional (tablas, roles, permisos y sesiones en lib/sesion.php), y control de acceso por roles. ] |
+| [CARLOS ENRIQUE JULIAN GUZMAN] | Ing. en Sistemas Computacionales | [Funciones de Radar, Fugas y Rutas Seguras: Implementación del mapa interactivo con Leaflet (Radar de riesgo), la regla de agrupación geográfica para el detector de fugas y la integración de rutas con OSRM. ] |
+| [JAIR ORTEGA AVILA] | Ing. en Sistemas Computacionales | [Módulo de Predicción y Análisis de Riesgo: Desarrollo de la fórmula de cálculo de riesgo (lib/riesgo.php), integración del pronóstico meteorológico (Open-Meteo) y registro histórico en la tabla evaluaciones_riesgo. ] |
+| [Xaris Cruz Aquino] | Gestión Empresarial | [ Integración de IA (Gemini), Pruebas y Documentación: Configuración del clasificador de reportes y redactor de análisis mediante la API de Gemini (lib/clasificador.php y lib/analisis.php), además de la coordinación de pruebas del sistema y documentación del proyecto.] |
 
 ## El problema
 
